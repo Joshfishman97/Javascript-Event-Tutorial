@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://azure-dove-rj9pn471.ws-us11.gitpod.io",
+    "address": "https://plum-krill-2trg6oqu.ws-us11.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",

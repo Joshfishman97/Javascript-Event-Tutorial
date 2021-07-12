@@ -1,8 +1,6 @@
 window.onload = function myLoadFunction() {
 	alert("The website just finished loading!");
-	let alertButton = document.querySelector("#theGreen").addEventListener("click", function() {
-		alert("woohoo!");
-	});
+	//some code here
 };
 
 //the listener function here
